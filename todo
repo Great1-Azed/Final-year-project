@@ -1,0 +1,7 @@
+1) Theory + NLP concepts (stemming, tokenization, bag of words)
+2) Create training data
+3) PyTorch model and training
+4) Save/Load model and implement the chat
+
+N/B: It is a feed foward neural network (FFNN)
+Check: Contextual chatbots with Tensorflow
